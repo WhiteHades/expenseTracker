@@ -1,2 +1,2 @@
 # expenseTracker
-An expense tracker, in vue.js
+An expense tracker, in vue.jsclear
